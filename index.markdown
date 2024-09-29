@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Santiago Giner Olavarrieta
 layout: home
+title: Santiago Giner Olavarrieta
 ---
-### Physics, math, and computer science enthusiast. Lover of triathlon and meditation
+Physics, math, and computer science enthusiast. Lover of triathlon and meditation
 
 Hi! Thank you for visiting my website. My name is Santiago and I'm a physics student who just graduated this year, in 2024, from Harvard University. I am currently on a sabbatical year (2024-2025). Here you'll find information on my academic work in physics, notes on books I've read or am currently reading, and some of my writings on other topics I like learning about, including philosophy and psychology. I will warn you that I am not a writer, and if you can call these writings just mere attempts at putting together strings of English words in a somewhat coherent way regarding a slightly interesting topic, then I'd be happy with that compliment :).
 
