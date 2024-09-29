@@ -4,4 +4,4 @@ title: "My First Blog Post"
 layout: post
 ---
 
-Hello, world!
+Trying to see if I can code properly.
