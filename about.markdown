@@ -7,16 +7,6 @@ I was born and raised in Caracas, Venezuela. At age 18 I moved to the US to stud
 
 In general, I just love learning new things about the world we live in and the humans and other beings that inhabit it. There is so much we know and so much more we don't. It is always good to take a step back and reflect on our insignifance in the world: we have little time in this [mote of dust](https://www.youtube.com/watch?v=wupToqz1e2g&pp=ygUNcGFsZSBibHVlIGRvdA%3D%3D) suspended on a sunbeam, so we might as well try to enjoy it.
 
-<!-- Here I am with a beard trying to look semi-professional.
-![Santiago with a beard](./assets/beard.jpeg){:width="60%"}
-
-And here I am without a beard during a hike in the [tallest mountain in Caracas](https://en.wikipedia.org/wiki/El_Ávila_National_Park).
-![Santiago without a beard on a hike](./assets/hike.jpg) -->
-
-<!-- Here I am with a beard trying to look semi-professional. | And here I am without a beard during a hike in the [tallest mountain in Caracas](https://en.wikipedia.org/wiki/El_Ávila_National_Park).
-:-------------------------:|:-------------------------:
-![Santiago with a beard](./assets/beard.jpeg)  |  ![Santiago without a beard on a hike](./assets/hike.jpg) -->
-
 | Here I am with a beard trying to look semi-professional. | And here I am without a beard during a hike in the [tallest mountain in Caracas](https://en.wikipedia.org/wiki/El_Ávila_National_Park). |
 |:-------------------------:|:-------------------------:|
 | ![Santiago with a beard](./assets/beard.jpeg){:width="600"}  | ![Santiago without a beard on a hike](./assets/hike.jpg){:width="400"} |
